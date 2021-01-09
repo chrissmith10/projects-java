@@ -1,4 +1,4 @@
-# Mortgage Calculator
+// Mortgage Calculator
 
 package com.package;
 import java.text.NumberFormat;
